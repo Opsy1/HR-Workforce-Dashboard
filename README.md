@@ -32,7 +32,7 @@ The goal of this dashboard is to provide a holistic view of the workforce, enabl
 This dashboard transforms raw data into strategic intelligence, allowing the organization to implement proactive retention programs, optimize resource allocation, and improve overall employee satisfaction. To improve employee retention, management should focus on 
 strengthening employee engagement, onboarding, mentoring, and career development opportunities.
 
-#### Screenshot & Demos
-[Dashboard Screenshot](https://github.com/Opsy1/HR-Workforce-Dashboard/blob/main/HR%20Dashboard%20Snapshot.png)
+#### Full Project View
+[View Project](https://github.com/Opsy1/HR-Workforce-Dashboard/blob/main/HR%20Workforce%20Analyics%20Dashboard.pdf)
 
 
